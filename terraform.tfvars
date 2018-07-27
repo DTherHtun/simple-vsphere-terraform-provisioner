@@ -13,7 +13,7 @@
  template = "Template/template-redhat7-cis-q2-general"
  numberofhost = 
 
- ipdns = ["8.8.8.8", "1.1.1.1
+ ipdns = ["8.8.8.8", "1.1.1.1"]
  ipaddr = "192.168.10."
  ipnetmask = "24"
  ipgw = "192.168.10.1"
