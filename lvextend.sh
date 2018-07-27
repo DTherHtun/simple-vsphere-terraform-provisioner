@@ -1,4 +1,4 @@
-sudo hostnamectl set-hostname mm1p-ansible01.ascendmoney.internal
+sudo hostnamectl set-hostname ansible01.opslalb.internal
 
 (
 echo n # Add a new partition  
